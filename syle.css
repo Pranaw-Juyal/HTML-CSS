@@ -1,0 +1,57 @@
+h2{
+    color:rgb(122, 57, 32); /*use color picker */
+}
+
+button{
+    color:blue;
+    background-color: #A6F6FF ;
+    font-family: chiller;
+}
+
+.click{
+    
+    text-decoration: none;
+    font-family: Chiller;
+    font-weight: 900;
+    font-size: larger;
+}
+
+#headingone{
+    color: darkolivegreen;
+}
+
+body{
+    background-color: #6499E9;   /* can use color pallete or color picker */
+}
+
+#one{
+    font-size: 18px;   /* used to set the pixels count , 1 inch = 2.54cm = 96 pixels */
+    color: red;
+    line-height: 40px;  /* used to set the gap btw the lines */
+}
+
+.class{
+    text-decoration: none;
+}
+
+a{ 
+    text-decoration: none ;
+    font-family: Chiller;
+    
+    
+}
+/* can also use mdn for more information 
+   this is basically used to remove the underline by default feature in the anchor tag , i.e to not underline, overline , line through .
+------ https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
+*/
+
+.cursive {
+    font-family: cursive;
+  }
+/*
+
+color picker = https://www.google.com/search?q=color+picker&rlz=1C1ONGR_enIN990IN990&oq=color+&gs_lcrp=EgZjaHJvbWUqDQgBEAAYgwEYsQMYgAQyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDINCAgQABiDARixAxiABDIHCAkQABiABNIBCDI1NzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#cobssid=s
+
+color pallete = https://www.google.com/search?q=color+pallete&rlz=1C1ONGR_enIN990IN990&oq=color+pallete&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQABgKGIMBGLEDGIAEMg8IAhAAGAoYgwEYsQMYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIECAcQBdIBCDMzNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+*/
